@@ -48,7 +48,7 @@ Par la suite, changer les informations de connexion inscrit en majuscules par ce
 | $user  | Identifiant de votre base de données |
 | $pass | Mot de passe de votre base de données | 
 
-## Etape 3 : installation des modules Composer
+### Etape 3 : installation des modules Composer
 
 Certains modules PHP sont nécessaires au bon fonctionnement de certaines fonctionnalités de la plateforme.
 
@@ -64,7 +64,7 @@ Liste des modules composer installées :
 
 - PHPMailer (permet l'envoi de mails pour la page de contact)
 
-## Etape 4 : Envoyer les fichiers vers le serveur
+### Etape 4 : Envoyer les fichiers vers le serveur
 
 Une fois les étapes précédentes effectuées, envoyer l'ensemble des fichiers depuis le FTP de votre serveur web. Manque plus qu'à tester depuis l'URL de votre site internet !
 
