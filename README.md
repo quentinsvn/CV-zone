@@ -72,4 +72,4 @@ Une fois les étapes précédentes effectuées, envoyer l'ensemble des fichiers 
 
 Une démonstration est disponible depuis l'URL suivante (via un hébergeur gratuit) :
 
-https://cv-zone.000webhostapp.com/
+https://cvzone.quentinsavean.fr
